@@ -1,1 +1,3 @@
-This is a bunch of notes that have no practical significance but allow me to push something on git
+This is a bunch of notes that have no practical significance but allow me to push something on git  
+
+little edit
